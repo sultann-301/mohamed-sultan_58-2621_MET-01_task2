@@ -1,0 +1,24 @@
+{"line_number": 11, "booking_id": "B0011", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'", "reasons": ["tickets.type: Input should be 'standard', 'vip' or 'student'"]}
+{"line_number": 16, "booking_id": "B0016", "reason": "tickets.qty: Input should be greater than or equal to 1", "reasons": ["tickets.qty: Input should be greater than or equal to 1"]}
+{"line_number": 24, "booking_id": "B0024", "reason": "student.id: String should match pattern '^[0-9]{2}-[0-9]{4}$'", "reasons": ["student.id: String should match pattern '^[0-9]{2}-[0-9]{4}$'"]}
+{"line_number": 44, "booking_id": "B0035", "reason": "duplicate booking_id", "reasons": ["duplicate booking_id"]}
+{"line_number": 50, "booking_id": "B0049", "reason": "event: Input should be a valid dictionary or instance of Event", "reasons": ["event: Input should be a valid dictionary or instance of Event"]}
+{"line_number": 58, "booking_id": "B0057", "reason": "student.id: String should match pattern '^[0-9]{2}-[0-9]{4}$'", "reasons": ["student.id: String should match pattern '^[0-9]{2}-[0-9]{4}$'"]}
+{"line_number": 61, "booking_id": "B0060", "reason": "student.id: String should match pattern '^[0-9]{2}-[0-9]{4}$'", "reasons": ["student.id: String should match pattern '^[0-9]{2}-[0-9]{4}$'"]}
+{"line_number": 91, "booking_id": "B0090", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'", "reasons": ["tickets.type: Input should be 'standard', 'vip' or 'student'"]}
+{"line_number": 102, "booking_id": "B0101", "reason": "total does not equal ticket amounts", "reasons": ["total does not equal ticket amounts"]}
+{"line_number": 107, "booking_id": "B0106", "reason": "student.id: String should match pattern '^[0-9]{2}-[0-9]{4}$'", "reasons": ["student.id: String should match pattern '^[0-9]{2}-[0-9]{4}$'"]}
+{"line_number": 117, "booking_id": "B0116", "reason": "booked_at is not before event date", "reasons": ["booked_at is not before event date"]}
+{"line_number": 121, "booking_id": "B0107", "reason": "duplicate booking_id", "reasons": ["duplicate booking_id"]}
+{"line_number": 132, "booking_id": "B0130", "reason": "tickets: List should have at least 1 item after validation, not 0", "reasons": ["tickets: List should have at least 1 item after validation, not 0"]}
+{"line_number": 144, "booking_id": "B0142", "reason": "total does not equal ticket amounts", "reasons": ["total does not equal ticket amounts"]}
+{"line_number": 170, "booking_id": "B0168", "reason": "booked_at is not before event date", "reasons": ["booked_at is not before event date"]}
+{"line_number": 189, "booking_id": "B0187", "reason": "event: Input should be a valid dictionary or instance of Event", "reasons": ["event: Input should be a valid dictionary or instance of Event"]}
+{"line_number": 190, "booking_id": "B0066", "reason": "duplicate booking_id", "reasons": ["duplicate booking_id"]}
+{"line_number": 193, "booking_id": "B0190", "reason": "tickets: List should have at least 1 item after validation, not 0", "reasons": ["tickets: List should have at least 1 item after validation, not 0"]}
+{"line_number": 218, "booking_id": "B0215", "reason": "total does not equal ticket amounts", "reasons": ["total does not equal ticket amounts"]}
+{"line_number": 224, "booking_id": "B0221", "reason": "booked_at is not before event date", "reasons": ["booked_at is not before event date"]}
+{"line_number": 236, "booking_id": "B0233", "reason": "total does not equal ticket amounts", "reasons": ["total does not equal ticket amounts"]}
+{"line_number": 244, "booking_id": "B0241", "reason": "tickets.type: Input should be 'standard', 'vip' or 'student'", "reasons": ["tickets.type: Input should be 'standard', 'vip' or 'student'"]}
+{"line_number": 255, "booking_id": "B0252", "reason": "tickets.qty: Input should be greater than or equal to 1", "reasons": ["tickets.qty: Input should be greater than or equal to 1"]}
+{"line_number": 281, "booking_id": "B0278", "reason": "tickets.qty: Input should be greater than or equal to 1", "reasons": ["tickets.qty: Input should be greater than or equal to 1"]}
